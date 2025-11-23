@@ -2,7 +2,7 @@
 //  Person.swift
 //  GhibliApp
 //
-//  Created by Pubudu Mihiranga on 2025-10-31.
+//  Created by Santheep Ganeswaran on 2025-10-31.
 //
 
 import Foundation
